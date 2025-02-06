@@ -1,2 +1,0 @@
-today we discussed about pipelines .
-created one branch by using git checkout -b command
