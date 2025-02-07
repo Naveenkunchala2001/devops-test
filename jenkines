@@ -8,5 +8,5 @@ stage{
     (deploy)
 }
 stage{
-    (tools)
+    (tools) ...
 }
